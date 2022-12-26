@@ -1,0 +1,7 @@
+https://github.com/uup-dump/converter/raw/590a19f6de78b0125eb37d1cd944d47115d6d094/convert.sh
+  out=convert.sh
+  checksum=sha-256=238077c62b1ba67047e3cd974da69100ac4096f90fd4b3004f537cc12753bc8b
+
+https://github.com/uup-dump/converter/raw/590a19f6de78b0125eb37d1cd944d47115d6d094/convert_ve_plugin
+  out=convert_ve_plugin
+  checksum=sha-256=02db2f5f2caf742daa6aeaa189d9af27775e8457db48fadd8d71bb1be5982eae
