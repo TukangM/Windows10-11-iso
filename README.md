@@ -1,5 +1,5 @@
 # windows-arm64-release
-windows 10-11 for arm64 (22:37 gmt +7 tomorrow i add windows 11 iso)
+windows 10-11 for arm64 (22:37 gmt +7 (bangkok, hanoi, jakarta) tomorrow i add windows 11 iso)
 # 
 i check and update every 1 month
 the iso compiled on linux with uup dump https://uupdump.net/
