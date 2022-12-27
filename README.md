@@ -11,6 +11,7 @@ the iso compiled on linux with uup dump https://uupdump.net/
 me when complete compiling isos i upload to archive.org cause github release max size is 2gb
 #
 For some reason uupdump generate iso are wrong. so when you download iso. the build number are same as release build number
+exampe:
 ![image](https://user-images.githubusercontent.com/91467886/209638542-6c0f5e28-4fb6-44e3-b3a4-23861b5046bf.png) ![image](https://user-images.githubusercontent.com/91467886/209638587-3a9a8b1a-2be6-4274-969d-e4bc44ad2db5.png)
 
 
