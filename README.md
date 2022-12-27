@@ -17,5 +17,5 @@ please dont remove or suspend this account maybe you look my workspaces and you 
 i am trying to find another workspace to lighten the load on github codespaces
 
 # Credits
- - Microsoft®, Windows®,and the Windows logo are registered trademarks of Microsoft Corporation in the United States and/or other countries.
+ - Microsoft®, Windows® and the Windows logo are registered trademarks of Microsoft Corporation in the United States and/or other countries.
  - GitHub Trademark of GitHub, Inc.
