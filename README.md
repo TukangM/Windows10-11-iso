@@ -1,7 +1,8 @@
 # windows-arm64-release
 
 windows 10 11 for arm64 stable release
-
+#
+Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 #
 
 i check and update every 1 month
