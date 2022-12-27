@@ -1,6 +1,6 @@
 # windows-arm64-release
 
-windows 10 11 for arm64
+windows 10 11 for arm64 stable release
 
 #
 
