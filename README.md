@@ -1,6 +1,6 @@
 # windows-arm64-release
 
-windows 10 11 for arm64 retail release (as known stable, non-preview. release)
+windows 10 11 for arm64 retail release (as known stable, non-preview, non-insider preview release)
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 #
