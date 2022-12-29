@@ -5,10 +5,9 @@ windows 10 11 for arm64 retail release (as known stable, non-preview, non-inside
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 #
 [Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br />
-[Windows 11](https://en.wikipedia.org/wiki/Windows_11)
-i check and update every 1 month
-the iso compiled on linux with uup dump https://uupdump.net/
-#
+[Windows 11](https://en.wikipedia.org/wiki/Windows_11)<br />
+i check and update every 1 month<br />
+the iso compiled on linux with uup dump https://uupdump.net/<br />
 me when complete compiling isos i upload to archive.org cause github release max size is 2gb
 #
 For some reason uupdump generate iso are wrong. so when you download iso. the build number are same as release build number
