@@ -4,7 +4,8 @@ windows 10 11 for arm64 retail release (as known stable, non-preview, non-inside
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 #
-
+[Windows 10](https://en.wikipedia.org/wiki/Windows_10)
+[Windows 11](https://en.wikipedia.org/wiki/Windows_11)
 i check and update every 1 month
 the iso compiled on linux with uup dump https://uupdump.net/
 #
