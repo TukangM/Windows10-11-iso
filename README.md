@@ -1,9 +1,11 @@
 # windows-arm64-release-non_preview-non_insider_preview
-windows 10 11 for arm64 retail release (as known stable, non-preview, non-insider preview release)<br /><br /><br /><br /><br />
+windows 10 11 for arm64 retail release (as known stable, non-preview, non-insider preview release)<br /><br /><br />
+Q:why you make this?<br /><br />
+A:cuz some pepole want lastest build not insider build
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 # Check last stable release on Wikipedia
-[Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br /><br />
+[Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br />
 [Windows 11](https://en.wikipedia.org/wiki/Windows_11)<br />
 im check and update every 1 month (busy with irl).<br />
 the iso compiled on linux with uup dump https://uupdump.net/, me when complete compiling isos i upload to archive.org cause github release max size is 2gb
