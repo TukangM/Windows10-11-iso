@@ -4,7 +4,7 @@ Q:why you make this?<br />
 A:cuz some pepole want lastest build not insider build<br /><br />
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
-# Check last stable release on Wikipedia
+# Check last stable release on Wikipedia (For me only for check last stable)
 [Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br />
 [Windows 11](https://en.wikipedia.org/wiki/Windows_11)<br />
 im check and update every 1 month (busy with irl).<br />
