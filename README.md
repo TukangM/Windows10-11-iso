@@ -8,7 +8,7 @@ Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases)
 [Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br />
 [Windows 11](https://en.wikipedia.org/wiki/Windows_11)<br />
 im check and update every:
-- 4 month for Cumulative Update for windows 10
+- 4-8 month for Cumulative Update for windows 10
 - 2-3 month for Non-Cumulative Update for Windows 11
 the iso compiled on linux with uup dump https://uupdump.net/, me when complete compiling isos i upload to archive.org cause github release max size is 2gb
 Windows Edition :
