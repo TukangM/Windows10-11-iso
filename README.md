@@ -9,6 +9,9 @@ Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases)
 [Windows 11](https://en.wikipedia.org/wiki/Windows_11)<br />
 im check and update every 4 month for Cumulative Update (busy with irl).<br />
 the iso compiled on linux with uup dump https://uupdump.net/, me when complete compiling isos i upload to archive.org cause github release max size is 2gb
+Windows Edition :
+ - Home
+ - Pro
 #
 For some reason uupdump generate iso are wrong. so when you download iso. the build number are same as release build number
 ![image](https://user-images.githubusercontent.com/91467886/209638542-6c0f5e28-4fb6-44e3-b3a4-23861b5046bf.png) ![image](https://user-images.githubusercontent.com/91467886/209638587-3a9a8b1a-2be6-4274-969d-e4bc44ad2db5.png)
@@ -29,5 +32,6 @@ i am trying to find another workspace to lighten the load on github codespaces<b
  - UUP Dump (not affiliated to Microsoft)
 
 # Updates
- - 14/01/2023 im lazy and busy to rebuild codespaces
+ - 15/-/- codespaces are using xrdp for easy use (only me)
+ - 14/-/- im lazy and busy to rebuild codespaces
  - 13/01/2023 something error on codespaces (vnc>port forward error [bad gateway]>change plan = reinstall/delete codespaces and use rdp protocol to control linux with vnc)
