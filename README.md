@@ -5,8 +5,8 @@ A:cuz some pepole want lastest build not insider build<br /><br />
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
 # Check last stable release on Wikipedia (For me only for check last stable)
-[Windows 10](https://en.wikipedia.org/wiki/Windows_10)<br />
-[Windows 11](https://en.wikipedia.org/wiki/Windows_11) - [UUP dump 22H2 Moment0 ](https://uupdump.net/known.php?q=22621)<br />
+[Windows 10](https://en.wikipedia.org/wiki/Windows_10) - [UUP dump 22H2](https://uupdump.net/known.php?q=19045)<br />
+[Windows 11](https://en.wikipedia.org/wiki/Windows_11) - [UUP dump 22H2 Moment 0](https://uupdump.net/known.php?q=22621)<br />
 im check and update every:
 - 4-8 month for Cumulative Update for windows 10
 - 2-3 month for Non-Cumulative Update for Windows 11 (im lazy to doing this stuff)
