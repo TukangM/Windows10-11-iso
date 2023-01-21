@@ -3,7 +3,9 @@ windows 10 11 for arm64 retail release (as known stable, non-preview, non-inside
 Q:why you make this?<br />
 A:cuz some pepole want lastest build not insider build<br /><br />
 #
-Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO
+Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO<br />
+[Windows 11 last release]https://github.com/TukangM/Windows10-11-iso/releases/tag/22621.1105_MULTI_ARM64_EN-US<br />
+[Windows 11 last release](https://github.com/TukangM/Windows10-11-iso/releases/tag/19041.2545_MULTI_ARM64_EN-US)<br />
 # Check last stable release on Wikipedia (For me only for check last stable)
 [Windows 10](https://en.wikipedia.org/wiki/Windows_10) - [UUP dump 22H2](https://uupdump.net/known.php?q=19045)<br />
 [Windows 11](https://en.wikipedia.org/wiki/Windows_11) - [UUP dump 22H2 Moment 0](https://uupdump.net/known.php?q=22621)<br />
