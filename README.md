@@ -35,6 +35,7 @@ i am trying to find another workspace to lighten the load on github codespaces<b
  - UUP Dump (not affiliated to Microsoft)
 
 # Updates
+ - 21/-/- lazy to compile begin
  - 15/-/- codespaces are using xrdp for easy use (only me), update the windows iso at release page
  - 14/-/- im lazy and busy to rebuild codespaces
  - 13/01/2023 something error on codespaces (vnc>port forward error [bad gateway]>change plan = reinstall/delete codespaces and use rdp protocol to control linux with vnc)
