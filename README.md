@@ -1,7 +1,10 @@
 # windows-arm64-release channel=retail lang=en-us solid_compression_install.esd=true
 windows 10 11 for arm64 retail release (as known stable, non-preview, non-insider preview release)<br /><br /><br />
-Q:why you make this?<br />
-A:cuz some pepole want lastest build not insider build<br /><br />
+Q: why you make this?<br />
+A: cuz some pepole want lastest build not insider build<br />
+<br />
+Q: do you have arm64 devices like raspberry pi? why you made this?<br />
+A: no i dont have any arm64 except phone (even my phone not supported to run windows), I made this just for fun for who need windows precompiled arm64<br />
 #
 Check out [GitHub release](https://github.com/TukangM/Windows10-11-iso/releases) for Windows ISO<br />
 [Windows 11 last release](https://github.com/TukangM/Windows10-11-iso/releases/tag/22621.1105_MULTI_ARM64_EN-US)<br />
