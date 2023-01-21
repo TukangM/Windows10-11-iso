@@ -34,7 +34,8 @@ i am trying to find another workspace to lighten the load on github codespaces<b
 # Credits
  - Microsoft®, Windows® and the Windows logo are registered trademarks of Microsoft Corporation in the United States and/or other countries.
  - GitHub Trademark of GitHub, Inc.
- - UUP Dump (not affiliated to Microsoft)
+ - UUP Dump (not affiliated to Microsoft).
+ - playit.gg Copyright Ⓒ 2022 Developed Methods LLC. All Rights Reserved.
 
 # Updates
  - 21/01/2023 lazy to compile begin...
