@@ -1,4 +1,5 @@
 # windows-arm64-release channel=retail lang=en-us solid_compression_install.esd=true
+[Discord Server SayaAEP](https://discord.gg/5ZZ3safwj5)<br />
 windows 10 11 for arm64 retail release (as known stable, non-preview, non-insider preview release)<br /><br /><br />
 Q: why you make this?<br />
 A: cuz some pepole want lastest build not insider build<br />
