@@ -43,7 +43,7 @@ i am trying to find another workspace to lighten the load on github codespaces<b
  - UUP Dump (not affiliated to Microsoft).
  - playit.gg Copyright Ⓒ 2022 Developed Methods LLC. All Rights Reserved.
 
-# Updates
+# Updates - [Windows10-11-iso/issues/4](https://github.com/TukangM/Windows10-11-iso/issues/4)
  - 21/01/2023 lazy to compile begin...
  - 15/01/2023 codespaces are using xrdp for easy use (only me)(port forward using [playit.gg](https://playit.gg/about) as port forward due vscode port forward are lag than and all port forwarded are 433 / 80), update the windows iso at release page
  - 14/01/2023 im lazy and busy to rebuild codespaces
