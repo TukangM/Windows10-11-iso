@@ -24,7 +24,7 @@ the iso compiled on linux with uup dump https://uupdump.net/. me when complete c
  - Home
  - Pro
 #
-For some reason uupdump generate iso are wrong. so when you download iso. the build number are same as release build number
+For some reason uupdump generate iso are wrong. so when you download iso. the build number are same as release build number (someone the build number on iso i'm rename into real build .)
 ![image](https://user-images.githubusercontent.com/91467886/209638542-6c0f5e28-4fb6-44e3-b3a4-23861b5046bf.png) ![image](https://user-images.githubusercontent.com/91467886/209638587-3a9a8b1a-2be6-4274-969d-e4bc44ad2db5.png)
 
 
