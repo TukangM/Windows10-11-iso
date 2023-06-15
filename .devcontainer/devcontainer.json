@@ -7,5 +7,10 @@
   "remoteUser": "root",
   "privileged": true,
   "securityOpt": ["seccomp=unconfined"],
-  "runArgs": ["--device=/dev/net/tun"]
+  "runArgs": ["--device=/dev/net/tun"],
+  "hostRequirements": {
+    "cpus": 3,
+    "memory": "8gb",
+    "storage": "16gb"
+  }
 }
