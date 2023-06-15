@@ -1,7 +1,6 @@
 {
   "runArgs": ["--device=/dev/net/tun"],
   "features": {
-    "ghcr.io/tailscale/codespace": {},
-    "ghcr.io/devcontainers/features/sshd:1": {}
+    "ghcr.io/tailscale/codespace": {}
   }
 }
