@@ -1,7 +1,11 @@
 {
-  "runArgs": ["--device=/dev/net/tun"],
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
   "features": {
-    "ghcr.io/devcontainers-contrib/features/tailscale:1": {},
+    "ghcr.io/tailscale/codespace/tailscale": {},
     "ghcr.io/devcontainers/features/sshd:1": {}
-  }
+  },
+  "remoteUser": "root",
+  "privileged": true,
+  "securityOpt": ["seccomp=unconfined"],
+  "runArgs": ["--device=/dev/net/tun"]
 }
