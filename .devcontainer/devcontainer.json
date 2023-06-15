@@ -9,8 +9,8 @@
   "securityOpt": ["seccomp=unconfined"],
   "runArgs": ["--device=/dev/net/tun"],
   "hostRequirements": {
-    "cpus": 3,
+    "cpus": 2,
     "memory": "8gb",
-    "storage": "16gb"
+    "storage": "32gb"
   }
 }
