@@ -49,5 +49,5 @@ i am trying to find another workspace to lighten the load on github codespaces<b
  - 14/01/2023 im lazy and busy to rebuild codespaces
  - 13/01/2023 something error on codespaces (vnc>port forward error (bad gateway)>change plan = reinstall/delete codespaces and use rdp protocol to control linux with xrdp)
 # Other
-[MicrosoftEdgeSetup.exe](https://bit.ly/MicrosoftEdgeSetupexe)
+[MicrosoftEdgeSetup.exe](https://bit.ly/MicrosoftEdgeSetupexe)<br />
 [ChromeSetup.exe](https://bit.ly/ChromeSetupexe)
