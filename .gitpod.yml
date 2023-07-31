@@ -1,3 +1,4 @@
+image: gitpod/workspace-full-vnc
 tasks:
     - name: tailscaled
       command: |
