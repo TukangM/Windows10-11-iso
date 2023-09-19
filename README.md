@@ -35,7 +35,7 @@ i am trying to find another workspace to lighten the load on github codespaces<b
 # Credits
  - Microsoft®, Windows® and the Windows logo are registered trademarks of Microsoft Corporation in the United States and/or other countries.
  - GitHub Trademark of GitHub, Inc.
- - UUP Dump (not affiliated to Microsoft). [reddit - Is UUPdump down for everyone?](https://www.reddit.com/r/windowsinsiders/comments/16hci7n/is_uupdump_down_for_everyone/)
+ - UUP Dump (not affiliated to Microsoft). [reddit - Is UUPdump down for everyone?](https://www.reddit.com/r/windowsinsiders/comments/16hci7n/is_uupdump_down_for_everyone/), bruh i found new domain [UUP dump](https://www.uup.ee)
  - [playit.gg](https://playit.gg) Copyright Ⓒ 2022 Developed Methods LLC.
  - [Tailscale](https://tailscale.com) © 2023 Tailscale Inc. (alternative playit.gg)
 
