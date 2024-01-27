@@ -47,3 +47,4 @@ i am trying to find another workspace to lighten the load on github codespaces<b
 # Other
 [MicrosoftEdgeSetup.exe](https://bit.ly/MicrosoftEdgeSetupexe)<br />
 [ChromeSetup.exe](https://bit.ly/ChromeSetupexe)
+[Firefox Installer.exe](https://bit.ly/FirefoxInstallerexe)
